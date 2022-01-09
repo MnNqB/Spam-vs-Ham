@@ -1,3 +1,3 @@
 # Spam-vs-Ham
 
-https://community.cloud.databricks.com/?o=338592927544956#notebook/863073770934826/command/1387129750961831
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/338592927544956/863073770934826/400981181773358/latest.html
